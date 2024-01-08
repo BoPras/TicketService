@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{39ED3C3C-6FAE-4916-B696-24EF5D1FDC23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tessera.Ticket.API", "Tessera.Ticket.API\Tessera.Ticket.API.csproj", "{16450D1E-A257-4A8A-96FA-C3FB5F49DC40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tessera.Authentication.API", "Tessera.Authentication.API\Tessera.Authentication.API.csproj", "{D28B0528-8B06-4667-853C-A17085E5FDF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tessera.Employee.API", "Tessera.Employee.API\Tessera.Employee.API.csproj", "{3CD1A30B-12F9-4A32-BC06-24DBB6740329}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tessera.Apeeal.API", "Tessera.Apeeal.API\Tessera.Apeeal.API.csproj", "{78C47E31-56AD-46D7-878C-52403FADF0E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tessera.TicketSolution.API", "Tessera.TicketSolution.API\Tessera.TicketSolution.API.csproj", "{E4C75A25-3D9A-4F61-9F3F-205E37355EB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39ED3C3C-6FAE-4916-B696-24EF5D1FDC23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39ED3C3C-6FAE-4916-B696-24EF5D1FDC23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39ED3C3C-6FAE-4916-B696-24EF5D1FDC23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39ED3C3C-6FAE-4916-B696-24EF5D1FDC23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16450D1E-A257-4A8A-96FA-C3FB5F49DC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16450D1E-A257-4A8A-96FA-C3FB5F49DC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16450D1E-A257-4A8A-96FA-C3FB5F49DC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16450D1E-A257-4A8A-96FA-C3FB5F49DC40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D28B0528-8B06-4667-853C-A17085E5FDF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28B0528-8B06-4667-853C-A17085E5FDF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28B0528-8B06-4667-853C-A17085E5FDF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28B0528-8B06-4667-853C-A17085E5FDF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD1A30B-12F9-4A32-BC06-24DBB6740329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD1A30B-12F9-4A32-BC06-24DBB6740329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD1A30B-12F9-4A32-BC06-24DBB6740329}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD1A30B-12F9-4A32-BC06-24DBB6740329}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C47E31-56AD-46D7-878C-52403FADF0E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C47E31-56AD-46D7-878C-52403FADF0E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C47E31-56AD-46D7-878C-52403FADF0E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C47E31-56AD-46D7-878C-52403FADF0E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4C75A25-3D9A-4F61-9F3F-205E37355EB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C75A25-3D9A-4F61-9F3F-205E37355EB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C75A25-3D9A-4F61-9F3F-205E37355EB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C75A25-3D9A-4F61-9F3F-205E37355EB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2FBC857-E0BA-4AC3-A52F-6AE4BB4B20B9}
+	EndGlobalSection
+EndGlobal
