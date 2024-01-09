@@ -19,7 +19,5 @@ namespace Tessera.Apeeal.API.Contracts.Repo
             List<AppealModel> result = this._context.GetList<AppealModel>(query, new Dapper.DynamicParameters { });
             return result;
         }
-
-
     }
 }
