@@ -15,26 +15,14 @@ namespace Tessera.Ticket.API.Model
         [Required]
         public DateTime? DueDate { get; set; }
         [Required]
-        public Urgency? Urgency { get; set; }
+        public string? Urgency { get; set; }
         [Required]
-        public WorkStatus? WorkStatus { get; set; }
+        public string? WorkStatus { get; set; }
         [Required]
         public int? CreatedBy { get; set; }
         [Required]
         public int? AppointedTo { get; set; }
         [Required]
         public int? AppealId { get; set; }
-    }
-    public enum Urgency
-    {
-        Low,
-        Medium,
-        High
-    }
-    public enum WorkStatus
-    {
-        Completed,
-        Cancelled,
-        Progress
     }
 }
