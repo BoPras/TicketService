@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Tessera.TicketSolution.API.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zOPQjRsILEGsB0pthQX9d9reFZk3RBZfo8Um5MBD3f0=",
+  "Source": "Tessera.TicketSolution.API",
+  "BasePath": "_content/Tessera.TicketSolution.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

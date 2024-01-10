@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tessera.TicketSolution.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eaa3d0f5f9113ac5abc18ef7e1ac6c4272fe600e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tessera.TicketSolution.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tessera.TicketSolution.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
