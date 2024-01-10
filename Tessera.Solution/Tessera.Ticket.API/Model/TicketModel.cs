@@ -5,7 +5,7 @@ namespace Tessera.Ticket.API.Model
     public class TicketModel
     {
         [Required]
-        public int? Id { get; set; }
+        public string? Id { get; set; }
         [Required]
         public string? Title { get; set; }
         [Required]
@@ -23,7 +23,7 @@ namespace Tessera.Ticket.API.Model
         [Required]
         public int? AppointedTo { get; set; }
         [Required]
-        public int? AppeallId { get; set; }
+        public int? AppealId { get; set; }
     }
     public enum Urgency
     {
